@@ -1,5 +1,4 @@
 // Peter Breissinger
-// Period C
 // Lab08st.java
 // The "Palindrome" Program
 
